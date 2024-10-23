@@ -1,10 +1,11 @@
 # 👋 Hello, I'm Qingyun
 
 ## 🌟 About Me
-- 🎓 Computer science student
-- 🌱 Currently learning: rust and swiftUI
-- 📝 I'm currently writing on my blog: https://trianglemesh.github.io/
-- 🏀 Outside of coding, I enjoy staying active through basketball, boxing, hiking and running.
+- 🎓 I'm a Computer Science student
+- 🌱 Currently learning Rust 🦀 and SwiftUI
+- 📝 Writing my blog at: https://trianglemesh.github.io/
+- 🏀 I enjoy basketball, boxing, hiking, and running
+- 💻 Always feel recharged after coding
 - 📫 Feel free to reach me at: trianglemeshq@gmail.com
 
 ## 📈 Language Statistics
