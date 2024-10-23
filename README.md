@@ -4,7 +4,7 @@
 - 🎓 Computer science undergrad student
 - 🌱 Currently learning: rust and swiftUI
 - 📝 I'm currently writing on my blog: https://trianglemesh.github.io/
-- 🏀 Outside of coding, I enjoy staying active through basketball, boxing, and running.
+- 🏀 Outside of coding, I enjoy staying active through basketball, boxing, hiking and running.
 - 📫 Feel free to reach me at: trianglemeshq@gmail.com
 
 ## 📈 Language Statistics
