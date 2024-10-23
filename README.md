@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Qingyun
 
 ## 🌟 About Me
-- 🎓 Computer science undergrad student
+- 🎓 Computer science student
 - 🌱 Currently learning: rust and swiftUI
 - 📝 I'm currently writing on my blog: https://trianglemesh.github.io/
 - 🏀 Outside of coding, I enjoy staying active through basketball, boxing, hiking and running.
